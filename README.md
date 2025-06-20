@@ -11,6 +11,7 @@ ________________________________________
 •	Restore public trust by enabling fair and data-driven grievance handling.
 ________________________________________
 3. Scope of the Solution
+   
 3.1 Core Modules / AI Agents
 1.	Claim Extraction Agent
 o	Extracts discrete, actionable claims from unstructured text complaints.
@@ -38,6 +39,7 @@ o	Track quality score and system suggestions.
 o	View all petitions with summarized statuses.
 o	Drill into claims, evidence, and IO responses.
 o	Accept, edit, or reject system recommendations.
+
 4. Key Features
 | Feature                    | Description                                                   |
 | -------------------------- | ------------------------------------------------------------- |
